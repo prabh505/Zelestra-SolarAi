@@ -27,7 +27,7 @@ This project was built using operational solar power plant data provided **exclu
 
 ## 🚀 Project Goals
 
-![Zelestra x AWS ML Ascend Challenge](Assets/66de7136452811f0.jpg)
+![Zelestra x AWS ML Ascend Challenge](66de7136452811f0.jpg)
 
 - Predict **solar PV power output** and **efficiency** with high accuracy.
 - Attribute losses to temperature, irradiance variability, and tracker performance.
